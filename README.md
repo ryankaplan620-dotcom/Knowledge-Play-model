@@ -1,2 +1,2 @@
-# AI Playground
-# Play Model
+# Playground
+# Knowledge Bank Play Model
