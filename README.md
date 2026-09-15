@@ -1,2 +1,2 @@
-# Aurora-AI
-Project Nemesis
+# AI Playground
+# Play Model
