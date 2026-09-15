@@ -1,6 +1,5 @@
 """
-Aurora AI - Complete Advanced Autonomous Learning System
-Ultimate Self-Improving AI with Multi-Modal Capabilities
+AI - with Multi-Modal Capabilities
 """
 
 import numpy as np
